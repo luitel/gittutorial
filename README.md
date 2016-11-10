@@ -1,4 +1,4 @@
 # gittutorial
 this is a git tutorial repository
 
-This is new text
+This is a short and new text. 
