@@ -2,4 +2,4 @@
 this is a git tutorial repository
 
 
-Deleting some texts. 
+Change after delete.
